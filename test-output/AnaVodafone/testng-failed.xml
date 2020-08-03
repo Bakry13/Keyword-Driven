@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [AnaVodafone]">
+  <test name="MITest(failed)">
+    <classes>
+      <class name="VodafoneEgypt.AnaVodafone.ExtentReport">
+        <methods>
+          <include name="StartReport"/>
+          <include name="EndReport"/>
+        </methods>
+      </class> <!-- VodafoneEgypt.AnaVodafone.ExtentReport -->
+      <class name="VodafoneEgypt.AnaVodafone.AppExecuter">
+        <methods>
+          <include name="AppTests"/>
+        </methods>
+      </class> <!-- VodafoneEgypt.AnaVodafone.AppExecuter -->
+    </classes>
+  </test> <!-- MITest(failed) -->
+</suite> <!-- Failed suite [AnaVodafone] -->

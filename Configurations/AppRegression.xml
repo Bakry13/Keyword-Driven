@@ -1,0 +1,10 @@
+<suite name="AnaVodafone">
+	<test name="MITest">
+		<classes>
+		 	<class name="VodafoneEgypt.AnaVodafone.AppExecuter" />
+			<class name="VodafoneEgypt.AnaVodafone.ExtentReport" />
+			<Methodes>
+			</Methodes>
+		</classes>
+	</test>
+</suite>
